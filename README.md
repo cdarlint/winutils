@@ -1,6 +1,7 @@
 # Kontext.TECH
-Learn Hadoop from Kontext Hadoop column. 
-https://kontext.tech/column/hadoop
+Learn Hadoop from Kontext Hadoop column.
+
+[Kontext Hadoop Column](https://kontext.tech/column/hadoop)
 
 # Hadoop 3.3.0 winutils
 All the versions prior to 3.3.0 are directly forked from https://github.com/cdarlint/winutils.
