@@ -1,17 +1,21 @@
-# winutils
-winutils.exe hadoop.dll and hdfs.dll binaries for hadoop on windows
+# Kontext.TECH
+Learn Hadoop from Kontext Hadoop column.
 
-I've been using https://github.com/steveloughran/winutils but it stops to update
-So I tried to compile myself and push binaries here for you all
+[Kontext Hadoop Column](https://kontext.tech/column/hadoop)
 
-[compile steps (in Chinese)](https://www.jianshu.com/p/1b4cbabfd899)
+# Hadoop 3.3.0 winutils
+> All these binaries are provided for test & learning purposes.
 
-## how to use
+For Hadoop 3.3.0 winutils, please download from [hadoop-3.3.0/bin](./hadoop-3.3.0/bin)
 
-place a copy of hadoop-ver folder on your local drive
-set environment vars:
-```
-HADOOP_HOME=<your local hadoop-ver folder>
-PATH=%PATH%;%HADOOP_HOME%\bin
-```
-then you'll pass the "no native library" and "access0" error
+# Other versions
+All the versions prior to 3.3.0 are directly forked from https://github.com/cdarlint/winutils.
+
+# Build Hadoop on Windows 10 guide
+Follow this link to compile and build Hadoop by yourself.
+
+- [Compile and Build Hadoop 3.2.1 on Windows 10 Guide](https://kontext.tech/column/hadoop/378/compile-and-build-hadoop-321-on-windows-10-guide)
+
+# Installation guides
+- [Install Hadoop 3.3.0 on Windows 10 Step by Step Guide (without WSL)](https://kontext.tech/column/hadoop/447/install-hadoop-330-on-windows-10-step-by-step-guide)
+- [Install Hadoop 3.3.0 on Windows 10 using WSL (similar as installation on Linux)](https://kontext.tech/column/hadoop/445/install-hadoop-330-on-windows-10-using-wsl)
