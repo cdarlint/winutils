@@ -6,6 +6,8 @@ Learn Hadoop from Kontext Hadoop column.
 # Hadoop 3.3.1 winutils
 > All these binaries are provided for test & learning purposes.
 
+[Hadoop 3.3.1 winutils](https://kontext.tech/column/hadoop/825/hadoop-331-winutils)
+
 For Hadoop 3.3.1 winutils, please download from [hadoop-3.3.1/bin](./hadoop-3.3.1/bin)
 
 # Other versions
